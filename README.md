@@ -2,6 +2,10 @@
 
 Cosmic Drift Classroom is a local, browser-based solar system teaching tool for projector, lab, and tablet use. It combines a Three.js solar system model with teacher controls, lesson prompts, quizzes, comparison data, standards notes, and source citations.
 
+## Live Demo
+
+https://cosmic-orcin-eight.vercel.app/
+
 ## Run Locally
 
 ```powershell
